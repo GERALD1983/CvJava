@@ -1,0 +1,73 @@
+/*************************************  general *******************************/
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.display-none {
+  display: none;
+}
+.vert {
+  color: #868c4d;
+}
+.rouge {
+  background-color: rgb(231, 65, 43);
+}
+.blanc {
+  color: white;
+}
+.bg-beige {
+  background-color: beige;
+}
+.gris {
+  color: grey;
+}
+.flex-column-centre {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.flex-column-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.flex-column-around {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.flex-column-start {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.flex-centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex-around {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.flex-start {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+/* section 1 */
+.section1 {
+  width: 100%;
+  height: 500px;
+}
+.image-profil {
+  height: 500px;
+}
